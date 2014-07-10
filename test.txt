@@ -4,3 +4,8 @@ test
 this is 1st line in test
 
 i am checking wether i can reset when i commit to my local repo
+
+
+After pushing the code from my local to main repo using ssh
+
+More code 
