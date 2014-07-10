@@ -2,3 +2,5 @@ test
 
 
 this is 1st line in test
+
+i am checking wether i can reset when i commit to my local repo
